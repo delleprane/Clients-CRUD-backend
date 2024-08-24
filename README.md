@@ -11,7 +11,7 @@
 
 # Projeto Backend de Cadastro de Clientes
 
-Este projeto é um backend desenvolvido em TypeScript que implementa funcionalidades de cadastro, listagem e deleção de clientes. A aplicação utiliza o Fastify como framework de servidor, Prisma como ORM (Object-Relational Mapping) e MongoDB Atlas como banco de dados.
+Este projeto é um backend desenvolvido em TypeScript que implementa funcionalidades de cadastro, listagem e deleção de clientes. A aplicação utiliza o Fastify como framework de servidor, Prisma como ORM (Object-Relational Mapping) e MongoDB Atlas como banco de dados. O front end pode ser encontrado em [Clients-CRUD-frontend](https://github.com/delleprane/Clients-CRUD-frontend/tree/main)
 
 ### Funcionalidades
 - **Cadastro de Clientes**: Permite criar novos registros de clientes no banco de dados.
