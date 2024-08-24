@@ -5,7 +5,7 @@ import { DeleteCustomerController } from "./controllers/DeleteCustomerSControlle
 
 
 export async function routes(fastify: FastifyInstance, options: FastifyPluginOptions) {
-    fastify.get("/teste", async (requeest: FastifyRequest, reply:FastifyReply)=>{
+    fastify.get("/", async (requeest: FastifyRequest, reply:FastifyReply)=>{
         return {ok: true}
     })
 
