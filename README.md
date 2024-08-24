@@ -84,3 +84,7 @@ Após iniciar o servidor, você pode utilizar ferramentas como Postman ou Insomn
 - **POST /customer**:  Cadastrar um novo cliente.
 - **GET /customers**: Listar todos os clientes.
 - **DELETE /customer/**:  Deletar um cliente por ID.
+
+- ## Deploy
+### O projeto está disponível online em </br>
+https://clients-crud-backend.onrender.com
