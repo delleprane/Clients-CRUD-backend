@@ -30,7 +30,7 @@ if (process.env.VERCEL) {
 else {
     const start = () => __awaiter(void 0, void 0, void 0, function* () {
         try {
-            yield app.listen({ port: 3333 });
+            yield app.listen({ port: 3333, host: '0.0.0.0'});
         }
         catch (err) {
             process.exit(1);
